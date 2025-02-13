@@ -1,6 +1,6 @@
 # House Prices Prediction using LightAutoML
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diank/house-prices-lightautoml/blob/main/house-prices-lightautoml.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diank/house-prices-lightautoml/blob/main/ColabNotebooks/house-prices-lightautoml.ipynb)
 
 ## Overview
 This project predicts house prices using the LightAutoML library. The dataset comes from the "House Prices - Advanced Regression Techniques" Kaggle competition.
