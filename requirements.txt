@@ -1,0 +1,6 @@
+lightautoml==0.3.8.1
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
